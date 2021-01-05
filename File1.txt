@@ -1,7 +1,7 @@
 Veniha
 
-
 Change: added
-change: - by teammate
-change -fix bug2
-change - work by team WI6
+Change - work by team WI6
+Change: -> by teammate
+Change: -> fix bug2
+Change: -> work on CR1 and added arrow
